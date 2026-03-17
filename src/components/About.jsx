@@ -79,7 +79,7 @@ const About = () => {
             <div className="bottom-grid">
                 <div className="md:col-span-8">
                     <div className="noisy"></div>
-                    <img src="/images/abt4.pmg" alt="" />
+                    <img src="/images/abt4.png" alt="" />
                 </div>
             </div>
 
